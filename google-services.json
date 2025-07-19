@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10996276759",
+    "project_id": "phoneauthproject-76d38",
+    "storage_bucket": "phoneauthproject-76d38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10996276759:android:bba08eec66ce4c685ec652",
+        "android_client_info": {
+          "package_name": "com.aqdasaqdaszulfiqar.phoneOTP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6u5MEFLIQ0F26ElIiT8wRi0SYXVzrw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
